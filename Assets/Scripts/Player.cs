@@ -22,8 +22,12 @@ public class Player : MonoBehaviour
     public Sprite lightSprite;
     public float lightMass = 0.5f;
 
+    [HideInInspector]
+    public float x;
+
     Rigidbody2D rb;
     SpriteRenderer renderer;
+    bool isGrounded;
 
     private void Start()
     {
@@ -69,11 +73,11 @@ public class Player : MonoBehaviour
 
     void Move()
     {
-        var x = Input.GetAxisRaw("Horizontal");
+        x = Input.GetAxisRaw("Horizontal");
 
         rb.velocity = new Vector2(x * speed, rb.velocity.y);
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Force);
         }
@@ -81,10 +85,16 @@ public class Player : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        isGrounded = true;
         if (collision.gameObject.CompareTag("Star"))
         {
             StarCounter.Instance.Stars++;
             Destroy(collision.gameObject);
         }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        isGrounded = false;
     }
 }
