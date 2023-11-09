@@ -48,7 +48,7 @@ public class Player : MonoBehaviour
 
         if (screenPos.x < 0 || screenPos.x > 1 || screenPos.y < 0)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            LevelReloader.Reload();
         }
     }
 
