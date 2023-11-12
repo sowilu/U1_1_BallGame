@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Bomb
   - Star
+  - Diamond
+  - Lava
+  - Platform
+  - Flag
   layers:
   - Default
   - TransparentFX
