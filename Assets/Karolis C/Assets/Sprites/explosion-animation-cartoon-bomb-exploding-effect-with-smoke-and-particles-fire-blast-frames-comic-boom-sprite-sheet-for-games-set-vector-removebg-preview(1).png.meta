@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: 455f2484bcf52274c8e75eeec5f8e19e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5362470826203930738
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_0
+  - first:
+      213: 7169806496289960397
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_1
+  - first:
+      213: 7190462411822665012
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_2
+  - first:
+      213: 4502331830320050446
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_3
+  - first:
+      213: -5979252444177670995
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_4
+  - first:
+      213: 3936024337897868579
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_5
+  - first:
+      213: -6203113044718803208
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_6
+  - first:
+      213: -8769284464668939993
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_7
+  - first:
+      213: -8647160259674927347
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_8
+  - first:
+      213: -4365380818453790484
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_9
+  - first:
+      213: 6017105601897686938
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_10
+  - first:
+      213: -8493042623934374147
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_11
+  - first:
+      213: 7745131131489895822
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_12
+  - first:
+      213: -1834398830083396386
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_13
+  - first:
+      213: -5831872467766102406
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_14
+  - first:
+      213: 8496387313303867321
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_15
+  - first:
+      213: -8773232580157050680
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_16
+  - first:
+      213: -7834583341868689943
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_17
+  - first:
+      213: 4685229333741324004
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_18
+  - first:
+      213: 8946448324175238676
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_19
+  - first:
+      213: 8429238204427850752
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_20
+  - first:
+      213: 6678187339740158240
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_21
+  - first:
+      213: -7450325765089644967
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_22
+  - first:
+      213: 5702158681697882929
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_23
+  - first:
+      213: 5551767829041765822
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_24
+  - first:
+      213: 9002602510393773488
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_25
+  - first:
+      213: -2411121133015606741
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_26
+  - first:
+      213: 2826103996312073551
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_27
+  - first:
+      213: 2015363557608949939
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_28
+  - first:
+      213: -2639152739532450794
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_29
+  - first:
+      213: 8503290317707050008
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_30
+  - first:
+      213: 696123963244981500
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_31
+  - first:
+      213: 2669762394080840402
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_32
+  - first:
+      213: -2263644622222816774
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_33
+  - first:
+      213: -3284063703972255273
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_34
+  - first:
+      213: 5522249765883173654
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_35
+  - first:
+      213: 8184421684450951675
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_36
+  - first:
+      213: -2623067472762279186
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_37
+  - first:
+      213: -2161013863768898998
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_38
+  - first:
+      213: 4196388863604947508
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_39
+  - first:
+      213: -4266582674753699505
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_40
+  - first:
+      213: 5922551694087789589
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_41
+  - first:
+      213: 5216869534873423523
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_42
+  - first:
+      213: -4094522698666884353
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_43
+  - first:
+      213: -3477606858642204598
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_44
+  - first:
+      213: -5304194301236271351
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_45
+  - first:
+      213: -4857115195913953114
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_46
+  - first:
+      213: -7200277923232688152
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_47
+  - first:
+      213: -917481686351235613
+    second: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_48
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 170.25
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d3ececfc1f8324cbc25b8c71ecb75d
+      internalID: 971972484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 183
+        width: 170.25
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0274dc853ad63da41aad0259df5ddd61
+      internalID: 1239068083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 183
+        width: 170.25
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f75a76aa79b0c48b67fc7e92dde061
+      internalID: 1260865645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 183
+        width: 170.25
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ad180bc4018244e962266fae4a7f92
+      internalID: -1567889659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 170.25
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f94f47538fcc6409a4798852d890e8
+      internalID: -1914712897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 170.25
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c44491104fa0743bd47fdbbab18369
+      internalID: 1863748969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 170.25
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dabcf158d822c4aaada1841030b325
+      internalID: 380527036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 170.25
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fa48d2faa6f5940abee7e5aa4a536a
+      internalID: -1819429871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cb29cdf295272754b96a887d18044f45
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_0: 971972484
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_1: 1239068083
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_2: 1260865645
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_3: -1567889659
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_4: -1914712897
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_5: 1863748969
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_6: 380527036
+      explosion-animation-cartoon-bomb-exploding-effect-with-smoke-and-particles-fire-blast-frames-comic-boom-sprite-sheet-for-games-set-vector-removebg-preview(1)_7: -1819429871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
