@@ -2576,6 +2576,10 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2039234063834448295, guid: dae75e452b802a943ab044841c8f0c26, type: 3}
+      propertyPath: lightMass
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 2933538039939912384, guid: dae75e452b802a943ab044841c8f0c26, type: 3}
       propertyPath: m_Name
       value: Player
