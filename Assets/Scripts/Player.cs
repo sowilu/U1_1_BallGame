@@ -82,15 +82,17 @@ public class Player : MonoBehaviour
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Force);
         }
     }
-
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        isGrounded = true;
         if (collision.gameObject.CompareTag("Star"))
         {
             StarCounter.Instance.Stars++;
             Destroy(collision.gameObject);
         }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        isGrounded = true;
     }
 
     private void OnCollisionExit2D(Collision2D collision)
